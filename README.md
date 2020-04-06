@@ -14,3 +14,11 @@ Juan Cruz Mendez
 7 subir al repositorio web
         git push
 
+
+ Orden de los comandos:
+ A: git clone (UNICO)
+
+ Iteracion       
+B: git add .
+C: git commit -m "aeghsraeg"
+D: git push (solo para subir a la web)
